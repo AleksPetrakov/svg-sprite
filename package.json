@@ -1,5 +1,5 @@
 {
-  "name": "svg-sprite",
+  "name": "@vusion/svg-sprite",
   "version": "1.5.0",
   "author": "Joschi Kuphal <joschi@kuphal.net> (https://jkphl.is)",
   "description": "SVG sprites & stacks galore — A low-level Node.js module that takes a bunch of SVG files, optimizes them and bakes them into SVG sprites of several types along with suitable stylesheet resources (e.g. CSS, Sass, LESS, Stylus, etc.)",
@@ -48,7 +48,6 @@
     "mkdirp": "^0.5.1",
     "mocha": "^5.2.0",
     "mustache": "^3.0.0",
-    "phantomjs-prebuilt": "^2.1.16",
     "prettysize": "^1.1.0",
     "should": "^13.2.3",
     "svgo": "^1.1.1",
