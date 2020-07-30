@@ -1,4 +1,4 @@
-# @vusion/svg-sprite
+# AleksPetrakov/svg-sprite
 This is a fork of [svg-sprite](https://github.com/jkphl/svg-sprite) with some modifications. Remove PhantomJS which is very large for main project. 
 
 ## Modifications
